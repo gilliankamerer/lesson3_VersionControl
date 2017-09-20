@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 19th, 2017
 
 ## Student Name:  
-(First and Last Name)
+Gillian Kamerer
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+A summary of five interesting/essential concepts for understanding repositories, git, and more.
+
+## View Project:
+https://gilliankamerer.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. There are local and remote repositories for storing project data both at a local server and farther away.
+2. Github is a very convenient and useful resource thet essentially takes 'snapshots' of your files or directory and saves those as versions in case you would like to revert to them.
+3. There are a multitude of commands that you can use in github, including 'git commit', 'git init', adding letters such as '-s', and much more taht aid users in working efficiently and effectively. 
 
